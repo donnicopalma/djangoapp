@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'Lab2-mtig'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_ffba5f5e284e4b75bee1a1515ddca756 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_2bdc880e6a4d47f49c2266d2b7e2d54a }}
